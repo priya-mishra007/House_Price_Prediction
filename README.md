@@ -71,11 +71,9 @@ Future Improvements
 Author
 
 Priya Mishra
-&
+Abhay Kesharwani
 Khushi Nishad
 
 BCA Student
-
-Summer Training – MNNIT Allahabad
 
 2026
