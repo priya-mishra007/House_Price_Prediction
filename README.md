@@ -71,11 +71,6 @@ Future Improvements
 Author
 
 Priya Mishra
-
-Abhay Kesharwani
-
-Khushi Nishad
-
 BCA Student
 
 2026
